@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Pd_2:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pd_2_jar3</output-path>
+    <root id="root">
+      <element id="archive" name="Pd_2.jar">
+        <element id="module-output" name="Pd_2" />
+      </element>
+    </root>
+  </artifact>
+</component>
